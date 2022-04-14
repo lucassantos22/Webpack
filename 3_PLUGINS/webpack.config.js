@@ -38,6 +38,5 @@ module.exports = {
         }),
         new dotenv(),
         new htmlWebpackPlugin() // Buildar o index.html,
-
     ]
 }
